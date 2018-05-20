@@ -3,6 +3,10 @@ GRDB 3 [![Swift](https://img.shields.io/badge/swift-4.1-orange.svg?style=flat)](
 
 ### A toolkit for SQLite databases, with a focus on application development
 
+
+**DO NOT USE THIS MASTER BRANCH, IT'S FOR MY PERSONAL USE IN SPM PROJECTS ONLY**
+**YOU MAY RUN INTO ISSUES, YOU HAVE BEEN WARNED**
+
 **Latest release**: March 30, 2018 • version 3.0.0-beta.1 • [CHANGELOG](CHANGELOG.md)
 
 **Requirements**: iOS 8.0+ / OSX 10.9+ / watchOS 2.0+ &bull; Swift 4.1+ / Xcode 9.3+
