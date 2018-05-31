@@ -1,7 +1,7 @@
 Good Practices for Designing Record Types
 =========================================
 
-This guide aims at helping you leverage the best of GRDB records and associations.
+This guide aims at helping you leverage the best of GRDB [records] and [associations].
 
 Since GRDB sits right between low-level libraries like SQLite itself or [FMDB], and high-level ORM like [Core Data] or [Realm], you may face questions when designing the model layer of your application.
 
@@ -127,6 +127,8 @@ To be clear, problems only emerge because of the adjunction of record protocols 
 
 
 
+[records]: ../README.md#records
+[associations]: AssociationsBasics.md
 [FMDB]: https://github.com/ccgus/fmdb
 [Core Data]: https://developer.apple.com/documentation/coredata
 [Realm]: https://realm.io
